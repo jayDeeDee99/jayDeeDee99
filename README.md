@@ -1,5 +1,5 @@
 - Hi, I’m Jacob (@jayDeeDee99)
-- Financial Mathematics Masters student at NCSU
+- Financial Engineer
 
 <!---
 jayDeeDee99/jayDeeDee99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
