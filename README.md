@@ -1,4 +1,4 @@
-- Hi, I’m Jacob (@jayDeeDee99)
+- Jacob
 - Financial Engineer
 
 <!---
